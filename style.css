@@ -1,0 +1,11 @@
+.navbar a:hover {
+  padding: 0%;
+  font-size: x-large;
+  letter-spacing: 0.85px;
+  transition: 0.2s;
+}
+.active {
+  padding: 0%;
+  font-size: x-large;
+  letter-spacing: 0.85px;
+}
